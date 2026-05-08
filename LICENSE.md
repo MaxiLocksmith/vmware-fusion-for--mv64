@@ -1,4 +1,4 @@
-
+instant Extension for VMware Fusion for macOS - file-indexing and scripting-support offers the most advanced VMware Fusion for macOS extension, with file-indexing and
 
 
 
